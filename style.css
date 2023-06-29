@@ -147,7 +147,7 @@ body{
 }
 
 .not-found{
-    width: 100%;
+    width: auto;
     text-align: center;
     margin-top: 50px;
     scale: 0;
